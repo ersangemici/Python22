@@ -29,7 +29,7 @@ username_entry.grid(column=3,row=1)
 
 
 password_label=tk.Label(root,text="Password:")
-password_label.grid(column=1,row=3)#sütün ve satır ayarlıyor 
+password_label.grid(column=1,row=3)
 password_entry=tk.Entry(root,show="*")
 password_entry.grid(column=3,row=3)
 
